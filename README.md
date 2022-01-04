@@ -15,3 +15,4 @@
 * https://www.skyscrapercity.com/threads/world-on-black-white-1-photo-per-post-open-thread.1756166/page-2199
 * https://react-data-table-component.netlify.app/?path=/docs/ui-library-material-ui-pagination--pagination
 * https://remix.run/
+* https://react-table.tanstack.com/docs/examples/pagination
