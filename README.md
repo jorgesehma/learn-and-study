@@ -16,3 +16,4 @@
 * https://react-data-table-component.netlify.app/?path=/docs/ui-library-material-ui-pagination--pagination
 * https://remix.run/
 * https://react-table.tanstack.com/docs/examples/pagination
+* https://www.pluralsight.com/guides/dynamic-tables-from-editable-columns-in-react-html
