@@ -21,3 +21,5 @@
 * https://mega.nz/folder/0vhwzDhT#ihH76jH28gXwjjbIyZglwA
 * https://ui.dev/react-router-tutorial/
 * https://123timer.com/#00:02:00
+
+*** chrome-extension://cmkdbmfndkfgebldhnkbfhlneefdaaip/js/notification.js
