@@ -17,3 +17,5 @@
 * https://remix.run/
 * https://react-table.tanstack.com/docs/examples/pagination
 * https://www.pluralsight.com/guides/dynamic-tables-from-editable-columns-in-react-html
+* https://mega.nz/folder/proDmSwK#SwOMXOG1Lgf-zbI-0phYGQ
+* https://mega.nz/folder/0vhwzDhT#ihH76jH28gXwjjbIyZglwA
