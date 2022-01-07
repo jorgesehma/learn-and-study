@@ -23,3 +23,4 @@
 * https://123timer.com/#00:02:00
 
 *** chrome-extension://cmkdbmfndkfgebldhnkbfhlneefdaaip/js/notification.js
+* https://learndigital.withgoogle.com/activate/courses?category=data
