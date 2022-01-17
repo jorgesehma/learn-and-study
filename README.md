@@ -25,3 +25,6 @@
 ** chrome-extension://cmkdbmfndkfgebldhnkbfhlneefdaaip/js/notification.js
 * https://learndigital.withgoogle.com/activate/courses?category=data
 * https://kinsta.com/es/blog/tutoriales-laravel/
+
+#MANGA
+* https://www3.animeflv.net/
