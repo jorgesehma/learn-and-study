@@ -1,4 +1,4 @@
-# learn-and-study
+## learn-and-study
 
 ### https://jasonwatmore.com/post/2020/01/27/react-fetch-http-get-request-examples
 ### https://developers.google.com/web/fundamentals/primers/async-functions?hl=es
@@ -22,11 +22,11 @@
 * https://ui.dev/react-router-tutorial/
 * https://123timer.com/#00:02:00
 * 
-** chrome-extension://cmkdbmfndkfgebldhnkbfhlneefdaaip/js/notification.js
+* chrome-extension://cmkdbmfndkfgebldhnkbfhlneefdaaip/js/notification.js
 * https://learndigital.withgoogle.com/activate/courses?category=data
 * https://kinsta.com/es/blog/tutoriales-laravel/
 
-#MANGA
+## MANGA
 * https://www3.animeflv.net/
 * https://codepen.io/2021/popular/pens/10
 * https://devhints.io/react
