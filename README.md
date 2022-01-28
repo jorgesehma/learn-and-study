@@ -31,3 +31,7 @@
 * https://codepen.io/2021/popular/pens/10
 * https://devhints.io/react
 * https://iqonic.design/shop/filter_session/HEOF66M8QC/
+
+## ANIMATIONS
+* https://css-tricks.com/almanac/properties/a/animation/
+* https://css-tricks.com/using-a-brightness-filter-to-generically-highlight-content/
