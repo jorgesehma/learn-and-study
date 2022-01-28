@@ -36,3 +36,4 @@
 * https://css-tricks.com/almanac/properties/a/animation/
 * https://css-tricks.com/using-a-brightness-filter-to-generically-highlight-content/
 * https://codigofuente.io/4-malvadas-bromas-con-javascript-para-tus-amigos/
+* https://webdesign.tutsplus.com/es/tutorials/how-to-create-different-css-hover-effects-from-scratch--cms-34222
