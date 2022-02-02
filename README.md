@@ -39,3 +39,6 @@
 * https://webdesign.tutsplus.com/es/tutorials/how-to-create-different-css-hover-effects-from-scratch--cms-34222
 * http://evilnapsis.com/2015/08/10/bookmedik-sistema-de-citas-medicas/
 * https://opensource.adobe.com/spectrum-css/treeview.html
+
+## BOX SHADOW AND BORDER BOX
+* https://www.webfx.com/blog/web-design/css-box-shadow/
