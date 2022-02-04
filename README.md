@@ -62,3 +62,4 @@
     
     ## DOMAINS
     * https://whois.cloud.tencent.com/domain?domain=vito.com
+    * https://parsleyjs.org/doc/download.html
