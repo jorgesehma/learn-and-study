@@ -63,3 +63,9 @@
 ## DOMAINS
 * https://whois.cloud.tencent.com/domain?domain=vito.com
 * https://parsleyjs.org/doc/download.html
+
+
+## CODE SNNIPETS
+* https://www.jesustovar.es/veteasabertu/etiquetas-pre-code-samp-kbd-y-var-para-mostrar-codigo-en-html
+* https://norfipc.com/codigos/crear-snipetts-adaptables-para-mostrar-codigo-fuente-paginas.php
+* https://www.eniun.com/etiquetas-contenido-texto-html/
