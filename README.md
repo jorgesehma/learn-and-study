@@ -69,7 +69,7 @@
 * https://www.jesustovar.es/veteasabertu/etiquetas-pre-code-samp-kbd-y-var-para-mostrar-codigo-en-html
 * https://norfipc.com/codigos/crear-snipetts-adaptables-para-mostrar-codigo-fuente-paginas.php
 * https://www.eniun.com/etiquetas-contenido-texto-html/
-* https://www.google.com/search?q=como+agregar+etiqueta+code+en+mi+html&oq=como+agregar+etiqueta+code+en+mi+html&aqs=chrome..69i57.10845j0j1&sourceid=chrome&ie=UTF-8
+* https://www.google.com/search?q=como+agregar+etiqueta+code+en+mi+html&oq=como+agregar+etiqueta+code+en+mi+html&aqs=chrome..69i57.10845j0j1&sourceid=chrome&ie=UTF-* https://www.adobe.io/document-services/docs/overview/pdf-embed-api/howtos/#embed-modes
 
 ## EMBEDED AND GENERATE PDF
 * https://www.codexworld.com/convert-html-to-pdf-using-javascript-jspdf/
