@@ -73,3 +73,5 @@
 
 ## EMBEDED AND GENERATE PDF
 * https://www.codexworld.com/convert-html-to-pdf-using-javascript-jspdf/
+* https://pushtell.github.io/react-bootstrap-date-picker/
+* https://github.com/anastaciom/layout-reactJS/tree/master/src
