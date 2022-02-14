@@ -75,3 +75,6 @@
 * https://www.codexworld.com/convert-html-to-pdf-using-javascript-jspdf/
 * https://pushtell.github.io/react-bootstrap-date-picker/
 * https://github.com/anastaciom/layout-reactJS/tree/master/src
+* https://reactjsexample.com/layout-with-react-js-using-nasa-api/
+* https://getbootstrap.com/docs/5.1/examples/sidebars/
+* https://getbootstrap.com/docs/5.1/examples/#snippets
