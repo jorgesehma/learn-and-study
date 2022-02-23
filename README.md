@@ -6,6 +6,11 @@
 ### https://codesandbox.io/examples/package/react-data-table-component
 ### https://react.rocks/tag/DataTable
 
+## PAGES AND GAMES
+* Horizon Forbidden West
+* Zero Day
+* https://www.laravelcode.com/
+
 
 * https://mega.nz/folder/rkpwyaJY#M-i3B0zB14-S7FTMged7xg
 * https://themewagon.com/theme-framework/bootstrap-5/
