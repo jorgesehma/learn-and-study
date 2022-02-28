@@ -86,3 +86,5 @@
 * https://www.smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/
 * https://medium.com/litslink/node-js-video-streaming-and-segmentation-in-examples-a1f094dbe8ef
 * https://medium.com/@likovalevl/video-streaming-with-javascript-the-easy-way-45ecd7ec3f08
+
+* https://www.whois.com/whois/devcode.com
