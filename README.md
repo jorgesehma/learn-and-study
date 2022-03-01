@@ -88,3 +88,4 @@
 * https://medium.com/@likovalevl/video-streaming-with-javascript-the-easy-way-45ecd7ec3f08
 
 * https://www.whois.com/whois/devcode.com
+* https://www.smashingmagazine.com/2020/08/forms-validation-ionic-react/
