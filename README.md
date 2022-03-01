@@ -89,3 +89,4 @@
 
 * https://www.whois.com/whois/devcode.com
 * https://www.smashingmagazine.com/2020/08/forms-validation-ionic-react/
+* https://daveceddia.com/where-initialize-state-react/
