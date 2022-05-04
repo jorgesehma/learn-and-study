@@ -99,3 +99,7 @@ https://www.esa.int/
 * https://colorlib.com/wp/react-dashboard-templates/
 * https://flatlogic.com/templates/sing-app-react?ref=zfHq8xuAaw
 * https://athemes.com/collections/best-react-admin-templates/
+
+##
+* https://www.techomoro.com/how-to-create-a-multi-page-website-with-react-in-5-minutes/
+* https://www.freecodecamp.org/news/portfolio-app-using-react-618814e35843/
