@@ -103,3 +103,7 @@ https://www.esa.int/
 ##
 * https://www.techomoro.com/how-to-create-a-multi-page-website-with-react-in-5-minutes/
 * https://www.freecodecamp.org/news/portfolio-app-using-react-618814e35843/
+
+## CSS
+* https://platzi.com/blog/react-css/
+* https://reactjs.org/docs/faq-styling.html
