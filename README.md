@@ -107,3 +107,5 @@ https://www.esa.int/
 ## CSS
 * https://platzi.com/blog/react-css/
 * https://reactjs.org/docs/faq-styling.html
+
+https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js/
