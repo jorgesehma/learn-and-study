@@ -91,9 +91,7 @@ https://www.esa.int/
 ## CSS
 * https://platzi.com/blog/react-css/
 * https://reactjs.org/docs/faq-styling.html
-
-https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js/
-
-## <link rel="stylesheet" id="siteground-optimizer-combined-css-0219ffa35c0ab3decf796418dec71110" href="https://www.positronx.io/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-0219ffa35c0ab3decf796418dec71110.css" media="all">
-
-https://answers.netlify.com/t/heroku-netlify-gives-cors-policy-no-access-control-allow-origin-header-is-present-on-the-requested-resource/51484
+* https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js/
+* <link rel="stylesheet" id="siteground-optimizer-combined-css-0219ffa35c0ab3decf796418dec71110" href="https://www.positronx.io/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-0219ffa35c0ab3decf796418dec71110.css" media="all">
+* https://answers.netlify.com/t/heroku-netlify-gives-cors-policy-no-access-control-allow-origin-header-is-present-on-the-requested-resource/51484
+* https://tools.picsart.com/color/codes/?utm_source=google&utm_medium=ppc&utm_campaign=16880371819&adgroupid=135152783483&utm_term=hex%20to%20rgb
