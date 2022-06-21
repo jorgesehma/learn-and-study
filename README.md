@@ -47,22 +47,6 @@
 ## BOX SHADOW AND BORDER BOX
 * https://www.webfx.com/blog/web-design/css-box-shadow/
 * https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/
-* <script>
-        $(document).ready(function() {
-            function show(){
-                $('i').mouseenter(function(){
-                    $('#jstree-default').addClass('overflow-hidden');
-                });
-                $('a.jstree-anchor').mouseenter(function(){
-                    $('#jstree-default').removeClass('overflow-hidden');
-                });
-                $('a.jstree-anchor').last().mouseleave(function(){
-                    $('#jstree-default').addClass('overflow-hidden');
-                });
-            }
-            setInterval(show, 100);
-        });
-    </script>
     
 ## DOMAINS
 * https://whois.cloud.tencent.com/domain?domain=vito.com
